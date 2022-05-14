@@ -112,6 +112,7 @@ h4{
 .about img{
 	height: auto;
 	width: 430px;
+	margin-right: 50px;
 }
 .about-text{
 	width: 550px;
@@ -165,6 +166,7 @@ button:hover{
 	width: 100%;
 	padding: 100px 0px;
 }
+
 .title h2{
 	color: white;
 	font-size: 75px;
